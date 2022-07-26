@@ -1,4 +1,0 @@
--IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\05-Classes\Classes\10-Shallow-Copying
--std=c++17
--target
-

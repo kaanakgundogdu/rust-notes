@@ -1,4 +1,0 @@
--IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\03-Functions\Functions\06-Default-Argument-Values
--std=c++17
--target
-

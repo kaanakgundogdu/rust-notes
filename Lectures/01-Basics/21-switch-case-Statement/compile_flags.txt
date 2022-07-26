@@ -1,4 +1,0 @@
--IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\01-Basics\21-switch-case-Statement
--std=c++17
--target
-

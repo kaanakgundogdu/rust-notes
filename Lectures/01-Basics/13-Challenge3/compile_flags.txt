@@ -1,4 +1,0 @@
--IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\01-Basics\13-Challenge3
--std=c++17
--target
-

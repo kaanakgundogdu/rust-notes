@@ -1,4 +1,0 @@
--IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\03-Functions\Functions\05-Function-Parameters-and-the-return-Statement
--std=c++17
--target
-

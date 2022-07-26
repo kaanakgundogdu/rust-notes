@@ -1,4 +1,0 @@
--IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\02-Strings\Strings\05-Assignment-Answer
--std=c++17
--target
-

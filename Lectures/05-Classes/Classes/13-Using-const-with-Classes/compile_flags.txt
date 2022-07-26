@@ -1,4 +1,0 @@
--IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\05-Classes\Classes\13-Using-const-with-Classes
--std=c++17
--target
-

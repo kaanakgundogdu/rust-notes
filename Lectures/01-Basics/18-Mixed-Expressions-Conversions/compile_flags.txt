@@ -1,4 +1,0 @@
--IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\01-Basics\18-Mixed-Expressions-Conversions
--std=c++17
--target
-

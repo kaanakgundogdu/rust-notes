@@ -1,4 +1,0 @@
--IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\02-Dereferencing-Pointer
--std=c++17
--target
-

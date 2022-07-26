@@ -1,4 +1,0 @@
--IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\06-Operator-Overloading\Operator-Overloading\02-Overloading-Assignment-Operator
--std=c++17
--target
-
