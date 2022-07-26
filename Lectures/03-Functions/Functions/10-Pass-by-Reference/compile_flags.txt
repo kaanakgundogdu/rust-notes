@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\03-Functions\Functions\10-Pass-by-Reference
+-std=c++17
+-target
+

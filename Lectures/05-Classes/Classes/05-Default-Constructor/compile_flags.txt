@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\05-Classes\Classes\05-Default-Constructor
+-std=c++17
+-target
+

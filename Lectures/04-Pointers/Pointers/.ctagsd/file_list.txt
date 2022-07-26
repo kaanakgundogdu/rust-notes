@@ -1,0 +1,9 @@
+C:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\09-Challenge-Pointers\main.cpp
+C:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\08-Reference-On-For-Loops\main.cpp
+C:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\07-Returning-Pointer-from-Function\main.cpp
+C:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\06-Passing-Pointers-to-Function\main.cpp
+C:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\05-Pointer-Arithmetic\main.cpp
+C:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\04-Arrays-and-Pointers\main.cpp
+C:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\03-Dynamic-Memory-Allocation\main.cpp
+C:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\02-Dereferencing-Pointer\main.cpp
+C:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\01-Pointer-Address-and-Storing-Address\main.cpp

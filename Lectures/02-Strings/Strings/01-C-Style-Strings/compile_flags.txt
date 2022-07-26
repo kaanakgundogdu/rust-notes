@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\02-Strings\Strings\01-C-Style-Strings
+-std=c++17
+-target
+

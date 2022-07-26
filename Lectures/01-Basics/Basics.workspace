@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Basics" Database="" Version="10000">
+  <Project Name="03-Basic-IO" Path="03-Basic-IO/03-Basic-IO.project" Active="No"/>
+  <Project Name="04-Variables" Path="04-Variables/04-Variables.project" Active="No"/>
+  <Project Name="05-AreaOfSquareFeet" Path="05-AreaOfSquareFeet/05-AreaOfSquareFeet.project" Active="No"/>
+  <Project Name="06-GlobalVariables" Path="06-GlobalVariables/06-GlobalVariables.project" Active="No"/>
+  <Project Name="07-Primitive-Data-Types" Path="07-Primitive-Data-Types/07-Primitive-Data-Types.project" Active="No"/>
+  <Project Name="08-SizeOf" Path="08-SizeOf/08-SizeOf.project" Active="No"/>
+  <Project Name="01-Challenge1" Path="01-Challenge1/01-Challenge1.project" Active="No"/>
+  <Project Name="02-Comments" Path="02-Comments/02-Comments.project" Active="No"/>
+  <Project Name="09-Constants" Path="09-Constants/09-Constants.project" Active="No"/>
+  <Project Name="10-Challenge2" Path="10-Challenge2/10-Challenge2.project" Active="No"/>
+  <Project Name="11-Arrays" Path="11-Arrays/11-Arrays.project" Active="No"/>
+  <Project Name="12-Vectors" Path="12-Vectors/12-Vectors.project" Active="No"/>
+  <Project Name="13-Challenge3" Path="13-Challenge3/13-Challenge3.project" Active="No"/>
+  <Project Name="14-AssignmentOperators" Path="14-AssignmentOperators/14-AssignmentOperators.project" Active="No"/>
+  <Project Name="15-Arithmetic-Operators" Path="15-Arithmetic-Operators/15-Arithmetic-Operators.project" Active="No"/>
+  <Project Name="16-Convert-Euros-to-Dolars" Path="16-Convert-Euros-to-Dolars/16-Convert-Euros-to-Dolars.project" Active="No"/>
+  <Project Name="17-Increment-Decrement-Operators" Path="17-Increment-Decrement-Operators/17-Increment-Decrement-Operators.project" Active="No"/>
+  <Project Name="18-Mixed-Expressions-Conversions" Path="18-Mixed-Expressions-Conversions/18-Mixed-Expressions-Conversions.project" Active="No"/>
+  <Project Name="19-Challenge4" Path="19-Challenge4/19-Challenge4.project" Active="No"/>
+  <Project Name="20-IfElse" Path="20-IfElse/20-IfElse.project" Active="No"/>
+  <Project Name="21-switch-case-Statement" Path="21-switch-case-Statement/21-switch-case-Statement.project" Active="No"/>
+  <Project Name="22-Switch-case-with-Enums" Path="22-Switch-case-with-Enums/22-Switch-case-with-Enums.project" Active="No"/>
+  <Project Name="23-Conditional-Operator" Path="23-Conditional-Operator/23-Conditional-Operator.project" Active="No"/>
+  <Project Name="24-For-Loop" Path="24-For-Loop/24-For-Loop.project" Active="No"/>
+  <Project Name="25-While-Loops" Path="25-While-Loops/25-While-Loops.project" Active="No"/>
+  <Project Name="26-Do-while" Path="26-Do-while/26-Do-while.project" Active="No"/>
+  <Project Name="27-Challenge5" Path="27-Challenge5/27-Challenge5.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="02-Comments" ConfigName="Debug"/>
+      <Project Name="03-Basic-IO" ConfigName="Debug"/>
+      <Project Name="04-Variables" ConfigName="Debug"/>
+      <Project Name="05-AreaOfSquareFeet" ConfigName="Debug"/>
+      <Project Name="06-GlobalVariables" ConfigName="Debug"/>
+      <Project Name="07-Primitive-Data-Types" ConfigName="Debug"/>
+      <Project Name="08-SizeOf" ConfigName="Debug"/>
+      <Project Name="01-Challenge1" ConfigName="Debug"/>
+      <Project Name="02-Comments" ConfigName="Debug"/>
+      <Project Name="01-Challenge1" ConfigName="Debug"/>
+      <Project Name="02-Comments" ConfigName="Debug"/>
+      <Project Name="09-Constants" ConfigName="Debug"/>
+      <Project Name="10-Challenge2" ConfigName="Debug"/>
+      <Project Name="11-Arrays" ConfigName="Debug"/>
+      <Project Name="12-Vectors" ConfigName="Debug"/>
+      <Project Name="13-Challenge3" ConfigName="Debug"/>
+      <Project Name="14-AssignmentOperators" ConfigName="Debug"/>
+      <Project Name="15-Arithmetic-Operators" ConfigName="Debug"/>
+      <Project Name="16-Convert-Euros-to-Dolars" ConfigName="Debug"/>
+      <Project Name="17-Increment-Decrement-Operators" ConfigName="Debug"/>
+      <Project Name="18-Mixed-Expressions-Conversions" ConfigName="Debug"/>
+      <Project Name="19-Challenge4" ConfigName="Debug"/>
+      <Project Name="20-IfElse" ConfigName="Debug"/>
+      <Project Name="21-switch-case-Statement" ConfigName="Debug"/>
+      <Project Name="22-Switch-case-with-Enums" ConfigName="Debug"/>
+      <Project Name="23-Conditional-Operator" ConfigName="Debug"/>
+      <Project Name="24-For-Loop" ConfigName="Debug"/>
+      <Project Name="25-While-Loops" ConfigName="Debug"/>
+      <Project Name="26-Do-while" ConfigName="Debug"/>
+      <Project Name="27-Challenge5" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="02-Comments" ConfigName="Release"/>
+      <Project Name="03-Basic-IO" ConfigName="Release"/>
+      <Project Name="04-Variables" ConfigName="Release"/>
+      <Project Name="05-AreaOfSquareFeet" ConfigName="Release"/>
+      <Project Name="06-GlobalVariables" ConfigName="Release"/>
+      <Project Name="07-Primitive-Data-Types" ConfigName="Release"/>
+      <Project Name="08-SizeOf" ConfigName="Release"/>
+      <Project Name="01-Challenge1" ConfigName="Release"/>
+      <Project Name="02-Comments" ConfigName="Release"/>
+      <Project Name="01-Challenge1" ConfigName="Release"/>
+      <Project Name="02-Comments" ConfigName="Release"/>
+      <Project Name="09-Constants" ConfigName="Release"/>
+      <Project Name="10-Challenge2" ConfigName="Release"/>
+      <Project Name="11-Arrays" ConfigName="Release"/>
+      <Project Name="12-Vectors" ConfigName="Release"/>
+      <Project Name="13-Challenge3" ConfigName="Release"/>
+      <Project Name="14-AssignmentOperators" ConfigName="Release"/>
+      <Project Name="15-Arithmetic-Operators" ConfigName="Release"/>
+      <Project Name="16-Convert-Euros-to-Dolars" ConfigName="Release"/>
+      <Project Name="17-Increment-Decrement-Operators" ConfigName="Release"/>
+      <Project Name="18-Mixed-Expressions-Conversions" ConfigName="Release"/>
+      <Project Name="19-Challenge4" ConfigName="Release"/>
+      <Project Name="20-IfElse" ConfigName="Release"/>
+      <Project Name="21-switch-case-Statement" ConfigName="Release"/>
+      <Project Name="22-Switch-case-with-Enums" ConfigName="Release"/>
+      <Project Name="23-Conditional-Operator" ConfigName="Release"/>
+      <Project Name="24-For-Loop" ConfigName="Release"/>
+      <Project Name="25-While-Loops" ConfigName="Release"/>
+      <Project Name="26-Do-while" ConfigName="Release"/>
+      <Project Name="27-Challenge5" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

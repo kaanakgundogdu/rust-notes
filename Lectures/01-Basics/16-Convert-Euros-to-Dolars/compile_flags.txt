@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\01-Basics\16-Convert-Euros-to-Dolars
+-std=c++17
+-target
+

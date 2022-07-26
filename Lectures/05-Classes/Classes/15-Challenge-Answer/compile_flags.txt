@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\05-Classes\Classes\15-Challenge-Answer
+-std=c++17
+-target
+

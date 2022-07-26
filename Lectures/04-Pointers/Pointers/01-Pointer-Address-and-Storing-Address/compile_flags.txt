@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\01-Pointer-Address-and-Storing-Address
+-std=c++17
+-target
+

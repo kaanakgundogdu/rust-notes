@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\08-Reference-On-For-Loops
+-std=c++17
+-target
+

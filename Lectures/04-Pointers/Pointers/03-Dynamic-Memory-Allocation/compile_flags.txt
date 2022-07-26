@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\04-Pointers\Pointers\03-Dynamic-Memory-Allocation
+-std=c++17
+-target
+

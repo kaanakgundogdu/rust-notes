@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\01-Basics\23-Conditional-Operator
+-std=c++17
+-target
+

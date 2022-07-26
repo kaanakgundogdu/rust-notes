@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\05-Classes\Classes\09-Copy-Constructor
+-std=c++17
+-target
+

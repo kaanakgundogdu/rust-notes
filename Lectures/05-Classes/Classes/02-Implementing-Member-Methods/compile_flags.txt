@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\05-Classes\Classes\02-Implementing-Member-Methods
+-std=c++17
+-target
+

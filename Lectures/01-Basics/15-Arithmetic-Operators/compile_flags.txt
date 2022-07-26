@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\01-Basics\15-Arithmetic-Operators
+-std=c++17
+-target
+

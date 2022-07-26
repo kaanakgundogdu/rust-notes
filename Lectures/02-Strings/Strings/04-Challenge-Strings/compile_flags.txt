@@ -1,0 +1,4 @@
+-IC:\Users\Kaan\Documents\GitHub\cpp-notes\Lectures\02-Strings\Strings\04-Challenge-Strings
+-std=c++17
+-target
+
