@@ -27,4 +27,14 @@ fn main() {
 
     let d: char = 'c';
     println!("{} is a char, size = {} bytes", d, mem::size_of_val(&d));
+
+    //f32 f64
+    let e: f32=2.5;
+    println!("{}, size = {} bytes",e,mem::size_of_val(&e));
+    let f =2.5;
+    println!("{}, size = {} bytes",f,mem::size_of_val(&f));
+
+    let g: bool=false; 
+    println!("{}, size = {} bytes",g,mem::size_of_val(&g));
+
 }
