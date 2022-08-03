@@ -1,1 +1,0 @@
-C:\Users\Kaan\Documents\GitHub\rust-notes\Lectures\01-Basics\03-Operators\operators\target\debug\operators.exe: C:\Users\Kaan\Documents\GitHub\rust-notes\Lectures\01-Basics\03-Operators\operators\src\main.rs
